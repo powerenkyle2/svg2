@@ -1,7 +1,7 @@
-importScripts('./spasx/xdxmz.js')
+importScripts('./7tldj/lsnqo.js')
 
-const { _3r4oul } = _1hc7qm()
-const proxySw = new _3r4oul()
+const { _5vlbtx } = _zx1lz2()
+const proxySw = new _5vlbtx()
 
 self.addEventListener('install', () => {
   void self.skipWaiting()
@@ -28,7 +28,7 @@ const OPEN_TAB_INJECT_SCRIPT = `
     if(!href) return href;
     try{
       const current=new URL(href, window.location.href);
-      const marker='/mu8bl/';
+      const marker='/dpq3s/';
       let candidate=current.href;
       for(let i=0;i<8;i+=1){
         const parsed=new URL(candidate, window.location.href);
